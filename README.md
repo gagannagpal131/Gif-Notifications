@@ -8,3 +8,4 @@ The notification will only appear if the application is in the background.
 
 Each time the user presses the "send notification button", a gif will be selected randomly and will be sent as a notification.
 
+This app is optimised for iOS 10.
