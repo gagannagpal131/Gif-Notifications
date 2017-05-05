@@ -12,6 +12,13 @@
 		764C36F61EBC832A00B7E9B9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 764C36F41EBC832A00B7E9B9 /* Main.storyboard */; };
 		764C36F81EBC832A00B7E9B9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 764C36F71EBC832A00B7E9B9 /* Assets.xcassets */; };
 		764C36FB1EBC832A00B7E9B9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 764C36F91EBC832A00B7E9B9 /* LaunchScreen.storyboard */; };
+		76EB03931EBC8EDB00EFB3B3 /* gif1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 76EB038E1EBC8EDB00EFB3B3 /* gif1.gif */; };
+		76EB03941EBC8EDB00EFB3B3 /* gif2.gif in Resources */ = {isa = PBXBuildFile; fileRef = 76EB038F1EBC8EDB00EFB3B3 /* gif2.gif */; };
+		76EB03951EBC8EDB00EFB3B3 /* gif3.gif in Resources */ = {isa = PBXBuildFile; fileRef = 76EB03901EBC8EDB00EFB3B3 /* gif3.gif */; };
+		76EB03961EBC8EDB00EFB3B3 /* gif4.gif in Resources */ = {isa = PBXBuildFile; fileRef = 76EB03911EBC8EDB00EFB3B3 /* gif4.gif */; };
+		76EB03971EBC8EDB00EFB3B3 /* gif5.gif in Resources */ = {isa = PBXBuildFile; fileRef = 76EB03921EBC8EDB00EFB3B3 /* gif5.gif */; };
+		76EB039A1EBC938E00EFB3B3 /* gif6.gif in Resources */ = {isa = PBXBuildFile; fileRef = 76EB03981EBC938E00EFB3B3 /* gif6.gif */; };
+		76EB039B1EBC938E00EFB3B3 /* gif7.gif in Resources */ = {isa = PBXBuildFile; fileRef = 76EB03991EBC938E00EFB3B3 /* gif7.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +29,13 @@
 		764C36F71EBC832A00B7E9B9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		764C36FA1EBC832A00B7E9B9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		764C36FC1EBC832A00B7E9B9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		76EB038E1EBC8EDB00EFB3B3 /* gif1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = gif1.gif; sourceTree = "<group>"; };
+		76EB038F1EBC8EDB00EFB3B3 /* gif2.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = gif2.gif; sourceTree = "<group>"; };
+		76EB03901EBC8EDB00EFB3B3 /* gif3.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = gif3.gif; sourceTree = "<group>"; };
+		76EB03911EBC8EDB00EFB3B3 /* gif4.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = gif4.gif; sourceTree = "<group>"; };
+		76EB03921EBC8EDB00EFB3B3 /* gif5.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = gif5.gif; sourceTree = "<group>"; };
+		76EB03981EBC938E00EFB3B3 /* gif6.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = gif6.gif; sourceTree = "<group>"; };
+		76EB03991EBC938E00EFB3B3 /* gif7.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = gif7.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +74,13 @@
 				764C36F71EBC832A00B7E9B9 /* Assets.xcassets */,
 				764C36F91EBC832A00B7E9B9 /* LaunchScreen.storyboard */,
 				764C36FC1EBC832A00B7E9B9 /* Info.plist */,
+				76EB038E1EBC8EDB00EFB3B3 /* gif1.gif */,
+				76EB038F1EBC8EDB00EFB3B3 /* gif2.gif */,
+				76EB03901EBC8EDB00EFB3B3 /* gif3.gif */,
+				76EB03911EBC8EDB00EFB3B3 /* gif4.gif */,
+				76EB03921EBC8EDB00EFB3B3 /* gif5.gif */,
+				76EB03981EBC938E00EFB3B3 /* gif6.gif */,
+				76EB03991EBC938E00EFB3B3 /* gif7.gif */,
 			);
 			path = "GIF Notifications";
 			sourceTree = "<group>";
@@ -125,8 +146,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				764C36FB1EBC832A00B7E9B9 /* LaunchScreen.storyboard in Resources */,
+				76EB03951EBC8EDB00EFB3B3 /* gif3.gif in Resources */,
 				764C36F81EBC832A00B7E9B9 /* Assets.xcassets in Resources */,
+				76EB03941EBC8EDB00EFB3B3 /* gif2.gif in Resources */,
 				764C36F61EBC832A00B7E9B9 /* Main.storyboard in Resources */,
+				76EB03931EBC8EDB00EFB3B3 /* gif1.gif in Resources */,
+				76EB03961EBC8EDB00EFB3B3 /* gif4.gif in Resources */,
+				76EB039B1EBC938E00EFB3B3 /* gif7.gif in Resources */,
+				76EB039A1EBC938E00EFB3B3 /* gif6.gif in Resources */,
+				76EB03971EBC8EDB00EFB3B3 /* gif5.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +289,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = JP9FFSKWS4;
 				INFOPLIST_FILE = "GIF Notifications/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.gagan.GIF-Notifications";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -274,6 +303,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = JP9FFSKWS4;
 				INFOPLIST_FILE = "GIF Notifications/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.gagan.GIF-Notifications";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -300,6 +330,7 @@
 				764C37011EBC832A00B7E9B9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
